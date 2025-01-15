@@ -137,7 +137,7 @@ v速云创立于2023年，采用Shadowsocks协议，节点覆盖常用地区和�
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=df653b5f798c395fb0f735df060854e5
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=aa211a2c3aeacc6a988a093981def89f
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=438c38c020daecbee455d58082ac8dc2
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=41e66d340a23e8302a4858da443e5f30 
-- 更新时间: 2025年01月16日01点28分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=41e66d340a23e8302a4858da443e5f30
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=438c38c020daecbee455d58082ac8dc2 
+- 更新时间: 2025年01月16日01点38分 
 结束
