@@ -135,9 +135,9 @@ v速云创立于2023年，采用Shadowsocks协议，节点覆盖常用地区和�
 - 域名: ['https://ymxfx.xyz'] 
 - 标题:共享免费的V2Ray节点，2025年1月30号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=05f070a3244eca874af96fa6035f97bc
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f366d3c7e2cf72cf265280026f5f5ef2
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3850fdcc8b1d9fdeacfd54546009b2c7
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=05f070a3244eca874af96fa6035f97bc
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=1b4945179069fee75f7f17638103a251 
-- 更新时间: 2025年02月01日05点41分 
+- 更新时间: 2025年02月01日05点51分 
 结束
