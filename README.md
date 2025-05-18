@@ -138,12 +138,12 @@ v速云创立于2023年，采用Shadowsocks协议，节点覆盖常用地区和�
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=6223a242396c4a2d71b1ef5deec3cc80
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=2e99662cd5f3c097b6f45e625185bc09
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=c49b4a78e7b77954e6ac876e322a961a
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b981cab37fef7a4aebf3bd9c92bbfed0
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=30b70a24b982fae8eb764ec0101d8f43
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=7244d6bdf65c5605705e6bb6a3d617d1
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=44ed84fce1ddd5f44682033c77b12123
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=38607526d4fdb1b93f2cffa49783fafb
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=c250e094eda6ee1d6b3bd38274650dd5
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=00ee7ab9cd8484626d4eb2ed3ae4fbe2
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b981cab37fef7a4aebf3bd9c92bbfed0 
-- 更新时间: 2025年05月18日17点51分 
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=44ed84fce1ddd5f44682033c77b12123
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=c250e094eda6ee1d6b3bd38274650dd5 
+- 更新时间: 2025年05月18日18点09分 
 结束
